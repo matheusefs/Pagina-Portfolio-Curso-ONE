@@ -16,12 +16,13 @@ O projeto foi construído com **HTML5** e **CSS3**, seguindo como referência um
 - Praticar a transição do design para código (do mockup para a página funcional)  
 - Exercitar conceitos de **HTML semântico** e **CSS moderno**  
 - Explorar boas práticas de **organização de estilos**  
-- Publicar a página como um site estático no **GitHub Pages**  
+- Publicar a página como um site estático no **Vercel**  
 
 ---
 
 ## 🔗 Links Importantes
-- 🎨 Protótipo no Figma: [Clique aqui](https://www.figma.com/community/file/1410377948870595725)  
+- 🎨 Protótipo no Figma: [Clique aqui](https://www.figma.com/community/file/1410377948870595725)
+- 🧩 Projeto no vercel: [Clique aqui](https://portfolio-one-three-omega.vercel.app/index.html)
 
 ---
 
@@ -35,7 +36,8 @@ O projeto foi construído com **HTML5** e **CSS3**, seguindo como referência um
 Durante o desenvolvimento, foram reforçados os seguintes pontos:  
 - Como interpretar um **protótipo no Figma** e transformá-lo em código  
 - Aplicação de **tags semânticas do HTML5** para melhor acessibilidade  
-- Organização e modularização dos estilos no **CSS**  
+- Organização e modularização dos estilos no **CSS**
+- Como utilizar e aplicar **media queries** para melhorar a responsividade da página web 
 
 ---
 
